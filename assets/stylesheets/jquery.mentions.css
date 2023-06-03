@@ -1,0 +1,7 @@
+.wiki-tag {
+  border: solid 1px black;
+  border-radius: .2rem;
+  font-size: 12px;
+  padding: .2rem;
+  margin: .2rem;
+}
